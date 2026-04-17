@@ -47,6 +47,9 @@ This project was created while mentoring students in a Data Analytics track, usi
 - Screenshots  
 - Dataset (if included)  
 ---
+## Dashboard Preview
+![Power BI Dashboard](dashboard.png)
+---
 ##  How to Use
 1. Download the `.pbix` file  
 2. Open in Power BI Desktop  
